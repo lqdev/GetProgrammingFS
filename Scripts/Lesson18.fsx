@@ -181,4 +181,4 @@ let fileInfo =
             files
         )
 
-
+fileInfo |> List.map(fsvalidate)
