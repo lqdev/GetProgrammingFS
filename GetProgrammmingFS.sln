@@ -13,6 +13,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Capstone2", "Capstone2\Caps
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Capstone3", "Capstone3\Capstone3.fsproj", "{8DE43A20-1D09-48FD-B75D-3915CC039B47}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Capstone4", "Capstone4\Capstone4.fsproj", "{B16ED7A1-E4B1-488B-A947-E1D2C52D095F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,5 +88,17 @@ Global
 		{8DE43A20-1D09-48FD-B75D-3915CC039B47}.Release|x64.Build.0 = Release|Any CPU
 		{8DE43A20-1D09-48FD-B75D-3915CC039B47}.Release|x86.ActiveCfg = Release|Any CPU
 		{8DE43A20-1D09-48FD-B75D-3915CC039B47}.Release|x86.Build.0 = Release|Any CPU
+		{B16ED7A1-E4B1-488B-A947-E1D2C52D095F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16ED7A1-E4B1-488B-A947-E1D2C52D095F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16ED7A1-E4B1-488B-A947-E1D2C52D095F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B16ED7A1-E4B1-488B-A947-E1D2C52D095F}.Debug|x64.Build.0 = Debug|Any CPU
+		{B16ED7A1-E4B1-488B-A947-E1D2C52D095F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B16ED7A1-E4B1-488B-A947-E1D2C52D095F}.Debug|x86.Build.0 = Debug|Any CPU
+		{B16ED7A1-E4B1-488B-A947-E1D2C52D095F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16ED7A1-E4B1-488B-A947-E1D2C52D095F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B16ED7A1-E4B1-488B-A947-E1D2C52D095F}.Release|x64.ActiveCfg = Release|Any CPU
+		{B16ED7A1-E4B1-488B-A947-E1D2C52D095F}.Release|x64.Build.0 = Release|Any CPU
+		{B16ED7A1-E4B1-488B-A947-E1D2C52D095F}.Release|x86.ActiveCfg = Release|Any CPU
+		{B16ED7A1-E4B1-488B-A947-E1D2C52D095F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
